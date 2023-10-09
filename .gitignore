@@ -1,0 +1,14 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+/.idea/
+/.fastRequest/
+
+
+/nginx-1.18.0/temp/
+/nginx-1.18.0/logs/
+/nginx-1.18.0/contrib/
+/nginx-1.18.0/docs/
